@@ -1,8 +1,8 @@
 ## PlusPharmcy-clone
 ### tech stack
 #### html
-####css
-####javascript
+#### css
+#### javascript
 In this page how the payment will be done and how to purchase product in pluspharmcy in this 
 
 
